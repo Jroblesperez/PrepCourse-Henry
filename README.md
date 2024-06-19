@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Esto es un repositorio de prueba
+Esto es un repo de prueba para saber como crear un repo desde Github y como trabajarlo de manera local 
